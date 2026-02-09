@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sudarshan Astrology Upay - Modern Astrology Website
 
 A fully responsive, modern astrology business website built with HTML, CSS, JavaScript, and Bootstrap 5. Features glassmorphism design, smooth animations, and comprehensive astrology services showcase.
@@ -206,3 +207,6 @@ Website: https://shapesway.in
 ---
 
 **©️ Copyright 2026 | Sudarshan Astrology Upay | All Rights Reserved | Powered by Shapesway Technologies Pvt. Ltd.**
+=======
+# Sudarshan-astrology
+>>>>>>> a8875e66b3293e59add5f4d7df228188a002d149
