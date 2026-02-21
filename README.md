@@ -30,13 +30,6 @@ A fully responsive, modern astrology business website built with HTML, CSS, Java
 - **SEO-friendly** structure
 - **Optimized performance** with lazy loading
 
-### 📞 Business Information
-- **Name**: Sudarshan Astrology Upay
-- **Phone**: 7232899555
-- **Address**: Shop No. 07, Nenawati Complex, Near Utsav Sarees, Bada Bazar, Teliyo Ki Mata Mandir Road, Udaipur (Raj.)
-- **Working Since**: 2005
-- **Social Media**: Instagram, Facebook, YouTube links integrated
-
 ### 🌟 Services Offered
 1. Kundli Matching
 2. Horoscope Reading
